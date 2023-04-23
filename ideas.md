@@ -49,7 +49,7 @@ $pp[i][j]$工作台$i$的产品是否可以卖给工作台$j$
 雷达信息：
 根据(p,nextTo)可以造出一个矩形
 
-![image-20230414150512154](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230414150512154.png)
+![image-20230414150512154](.\imgs\image-20230414150512154.png)
 
 机器人半圆的雷达探测终点不能在矩形内
 
@@ -113,7 +113,7 @@ A*（**待完成**）
 
 # 敌方位置估计（有任务待完成）
 
-![image-20230415181546488](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230415181546488.png)
+![image-20230415181546488](.\imgs\image-20230415181546488.png)
 
 如果雷达的射线正常照射到障碍物或者己方机器人，则该射线称为正常射线，否则称为异常射线
 
@@ -186,7 +186,7 @@ A*（**待完成**）
 
 # 问题（待完成）
 
-![image-20230416143040638](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230416143040638.png)
+![image-20230416143040638](.\imgs\image-20230416143040638.png)
 
 机器人挪得慢（**待解决**）
 
@@ -244,7 +244,7 @@ vis机制与机器人切换目标机制冲突，机器人很难到达工作台�
 
 
 
-![image-20230420130059817](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230420130059817.png)
+![image-20230420130059817](.\imgs\image-20230420130059817.png)
 
 往加r.isTransPorter()    (v27发现)
 
@@ -254,7 +254,7 @@ vis机制与机器人切换目标机制冲突，机器人很难到达工作台�
 
 # 紧急任务
 
-![image-20230417004653600](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230417004653600.png)
+![image-20230417004653600](.\imgs\image-20230417004653600.png)
 
 自己卡住自己（**非常紧急，T0任务**，好像可以Ev=max(Ev,0.1)）
 
@@ -296,7 +296,7 @@ bfs写法可以正常运行，但需要进一步优化。
 
 
 
-![image-20230417182840870](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230417182840870.png)
+![image-20230417182840870](.\imgs\image-20230417182840870.png)
 
 ~~检测到敌人要判断可不可达（**待完成**）~~
 
@@ -318,9 +318,9 @@ swithTask避开了唯一工作台，导致没地方去，考虑能避就避，�
 
 要判定工作台是否空旷
 
-![image-20230419114947575](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230419114947575.png)
+![image-20230419114947575](.\imgs\image-20230419114947575.png)
 
-![image-20230419141406122](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230419141406122.png)
+![image-20230419141406122](.\imgs\image-20230419141406122.png)
 
 # dij树重构
 
@@ -328,11 +328,11 @@ swithTask避开了唯一工作台，导致没地方去，考虑能避就避，�
 
 
 
-![image-20230418001227733](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230418001227733.png)
+![image-20230418001227733](.\imgs\image-20230418001227733.png)
 
 假设断掉这个F
 
-![image-20230418001307497](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230418001307497.png)
+![image-20230418001307497](.\imgs\image-20230418001307497.png)
 
 只需让这个BF相连
 
@@ -740,7 +740,7 @@ v55_fix3：修复切换工作台disable机制
 
 观察yyztest1，还要再额外加一些点才能更加完善
 
-![image-20230419042700059](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230419042700059.png)
+![image-20230419042700059](.\imgs\image-20230419042700059.png)
 
 特征：
 
@@ -829,7 +829,7 @@ runable判断有错
 
 ​	3.~~使用1/2个机器人去阻碍别人唯1/2的7号工作台（ 六一儿童节的策略，或任意能阻碍7生产线的工作台）~~
 
-![image-20230420000654190](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230420000654190.png)
+![image-20230420000654190](.\imgs\image-20230420000654190.png)
 
 
 
@@ -987,43 +987,43 @@ runable判断有错
 
 卡住的情况：
 
-![image-20230420112418032](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230420112418032.png)( 脑机的做手套的和...)
+![image-20230420112418032](.\imgs\image-20230420112418032.png)( 脑机的做手套的和...)
 
-![image-20230420112331492](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230420112331492.png)（xfzlq_and_qyylx)
+![image-20230420112331492](.\imgs\image-20230420112331492.png)（xfzlq_and_qyylx)
 
-![image-20230420112531622](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230420112531622.png)(六一儿童节)
+![image-20230420112531622](.\imgs\image-20230420112531622.png)(六一儿童节)
 
-![image-20230420112606652](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230420112606652.png)(JustSoSo)
+![image-20230420112606652](.\imgs\image-20230420112606652.png)(JustSoSo)
 
-![image-20230420112645170](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230420112645170.png)(JustSoSo)
+![image-20230420112645170](.\imgs\image-20230420112645170.png)(JustSoSo)
 
-![image-20230420120507337](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230420120507337.png)（XD小黑子)
+![image-20230420120507337](.\imgs\image-20230420120507337.png)（XD小黑子)
 
-![image-20230420120551073](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230420120551073.png)（XD小黑子)
+![image-20230420120551073](.\imgs\image-20230420120551073.png)（XD小黑子)
 
-![image-20230420120836604](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230420120836604.png)（逐星)
+![image-20230420120836604](.\imgs\image-20230420120836604.png)（逐星)
 
 
 
-![image-20230420130308522](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230420130308522.png)（xfzlq_and_qyylx)
+![image-20230420130308522](.\imgs\image-20230420130308522.png)（xfzlq_and_qyylx)
 
-![image-20230420130356338](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230420130356338.png)（xfzlq_and_qyylx)
+![image-20230420130356338](.\imgs\image-20230420130356338.png)（xfzlq_and_qyylx)
 
 
 
 没有向目标工作台出发
 
-![image-20230420130550068](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230420130550068.png)
+![image-20230420130550068](.\imgs\image-20230420130550068.png)
 
-![image-20230420130945761](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230420130945761.png)（v28 vs v28,4_p)
+![image-20230420130945761](.\imgs\image-20230420130945761.png)（v28 vs v28,4_p)
 
-![image-20230420131218483](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230420131218483.png)（v28 vs v28,2_p)
+![image-20230420131218483](.\imgs\image-20230420131218483.png)（v28 vs v28,2_p)
 
 （启发：能切换目标时，应该切换目标）
 
 占用工作台的让正在wait的先去目标工作台（wait的item>占用工作台的item）
 
-![image-20230420154624234](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230420154624234.png)（v28 vs v29,2)
+![image-20230420154624234](.\imgs\image-20230420154624234.png)（v28 vs v29,2)
 
 
 
@@ -1031,4 +1031,4 @@ runable判断有错
 
 去工作台，偏好速度不能减速（有敌人不减速）
 
-![image-20230420184824743](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230420184824743.png)
+![image-20230420184824743](.\imgs\image-20230420184824743.png)
