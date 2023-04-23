@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/AppData/OneDrive/2023rt/finalcontest/main/build",
+  "command": "D:\\tools\\mingw64\\bin\\g++.exe   -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\main.dir\\NewMap.cpp.obj -c D:\\AppData\\OneDrive\\2023rt\\finalcontest\\main\\NewMap.cpp",
+  "file": "D:/AppData/OneDrive/2023rt/finalcontest/main/NewMap.cpp",
+  "output": "CMakeFiles/main.dir/NewMap.cpp.obj"
+},
+{
+  "directory": "D:/AppData/OneDrive/2023rt/finalcontest/main/build",
+  "command": "D:\\tools\\mingw64\\bin\\g++.exe   -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\main.dir\\main.cpp.obj -c D:\\AppData\\OneDrive\\2023rt\\finalcontest\\main\\main.cpp",
+  "file": "D:/AppData/OneDrive/2023rt/finalcontest/main/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.obj"
+}
+]

@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/AppData/OneDrive/2023rt/finalcontest/main_v5/build",
+  "command": "D:\\tools\\mingw64\\bin\\g++.exe   -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\main.dir\\Map.cpp.obj -c D:\\AppData\\OneDrive\\2023rt\\finalcontest\\main_v5\\Map.cpp",
+  "file": "D:/AppData/OneDrive/2023rt/finalcontest/main_v5/Map.cpp",
+  "output": "CMakeFiles/main.dir/Map.cpp.obj"
+},
+{
+  "directory": "D:/AppData/OneDrive/2023rt/finalcontest/main_v5/build",
+  "command": "D:\\tools\\mingw64\\bin\\g++.exe   -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\main.dir\\Platform.cpp.obj -c D:\\AppData\\OneDrive\\2023rt\\finalcontest\\main_v5\\Platform.cpp",
+  "file": "D:/AppData/OneDrive/2023rt/finalcontest/main_v5/Platform.cpp",
+  "output": "CMakeFiles/main.dir/Platform.cpp.obj"
+},
+{
+  "directory": "D:/AppData/OneDrive/2023rt/finalcontest/main_v5/build",
+  "command": "D:\\tools\\mingw64\\bin\\g++.exe   -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\main.dir\\Robot.cpp.obj -c D:\\AppData\\OneDrive\\2023rt\\finalcontest\\main_v5\\Robot.cpp",
+  "file": "D:/AppData/OneDrive/2023rt/finalcontest/main_v5/Robot.cpp",
+  "output": "CMakeFiles/main.dir/Robot.cpp.obj"
+},
+{
+  "directory": "D:/AppData/OneDrive/2023rt/finalcontest/main_v5/build",
+  "command": "D:\\tools\\mingw64\\bin\\g++.exe   -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\main.dir\\main.cpp.obj -c D:\\AppData\\OneDrive\\2023rt\\finalcontest\\main_v5\\main.cpp",
+  "file": "D:/AppData/OneDrive/2023rt/finalcontest/main_v5/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.obj"
+}
+]

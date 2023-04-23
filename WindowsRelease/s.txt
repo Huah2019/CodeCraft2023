@@ -1,0 +1,7 @@
+robot_gui.exe Demo\SimpleDemo.exe main.exe -m maps\1.txt -f
+robot_gui.exe main.exe Demo\SimpleDemo.exe -m maps\1.txt -f
+robot_gui.exe main.exe main.exe -m maps\1.txt -f
+robot_gui.exe main.exe Demo\SimpleDemo.exe -m maps_fu\2.txt -f
+robot_gui.exe main.exe main.exe -m maps\2.txt -f
+
+map2 卷王之王 8个7

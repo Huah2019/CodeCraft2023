@@ -1,0 +1,22 @@
+[
+{
+  "directory": "D:/AppData/OneDrive/2023rt/finalcontest/main_v10/build",
+  "command": "D:\\tools\\mingw64\\bin\\g++.exe    -Wall -Wextra -Wno-parentheses -Wno-sign-compare -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\main.dir\\Map.cpp.obj -c D:\\AppData\\OneDrive\\2023rt\\finalcontest\\main_v10\\Map.cpp",
+  "file": "D:/AppData/OneDrive/2023rt/finalcontest/main_v10/Map.cpp"
+},
+{
+  "directory": "D:/AppData/OneDrive/2023rt/finalcontest/main_v10/build",
+  "command": "D:\\tools\\mingw64\\bin\\g++.exe    -Wall -Wextra -Wno-parentheses -Wno-sign-compare -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\main.dir\\Platform.cpp.obj -c D:\\AppData\\OneDrive\\2023rt\\finalcontest\\main_v10\\Platform.cpp",
+  "file": "D:/AppData/OneDrive/2023rt/finalcontest/main_v10/Platform.cpp"
+},
+{
+  "directory": "D:/AppData/OneDrive/2023rt/finalcontest/main_v10/build",
+  "command": "D:\\tools\\mingw64\\bin\\g++.exe    -Wall -Wextra -Wno-parentheses -Wno-sign-compare -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\main.dir\\Robot.cpp.obj -c D:\\AppData\\OneDrive\\2023rt\\finalcontest\\main_v10\\Robot.cpp",
+  "file": "D:/AppData/OneDrive/2023rt/finalcontest/main_v10/Robot.cpp"
+},
+{
+  "directory": "D:/AppData/OneDrive/2023rt/finalcontest/main_v10/build",
+  "command": "D:\\tools\\mingw64\\bin\\g++.exe    -Wall -Wextra -Wno-parentheses -Wno-sign-compare -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\main.dir\\main.cpp.obj -c D:\\AppData\\OneDrive\\2023rt\\finalcontest\\main_v10\\main.cpp",
+  "file": "D:/AppData/OneDrive/2023rt/finalcontest/main_v10/main.cpp"
+}
+]

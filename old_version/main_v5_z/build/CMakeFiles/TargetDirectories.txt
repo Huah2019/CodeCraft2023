@@ -1,0 +1,3 @@
+D:/AppData/OneDrive/2023rt/finalcontest/main_v5_z/build/CMakeFiles/main.dir
+D:/AppData/OneDrive/2023rt/finalcontest/main_v5_z/build/CMakeFiles/edit_cache.dir
+D:/AppData/OneDrive/2023rt/finalcontest/main_v5_z/build/CMakeFiles/rebuild_cache.dir

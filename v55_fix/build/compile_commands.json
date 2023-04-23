@@ -1,0 +1,17 @@
+[
+{
+  "directory": "D:/AppData/OneDrive/2023rt/finalcontest/v55_fix/build",
+  "command": "D:\\tools\\x86_64-7.3.0-release-posix-seh-rt_v5-rev0\\mingw64\\bin\\g++.exe    -Wall -Wextra -Wno-parentheses -Wno-sign-compare -O3 -DNDEBUG -std=gnu++1z -o CMakeFiles\\main.dir\\Map.cpp.obj -c D:\\AppData\\OneDrive\\2023rt\\finalcontest\\v55_fix\\Map.cpp",
+  "file": "D:/AppData/OneDrive/2023rt/finalcontest/v55_fix/Map.cpp"
+},
+{
+  "directory": "D:/AppData/OneDrive/2023rt/finalcontest/v55_fix/build",
+  "command": "D:\\tools\\x86_64-7.3.0-release-posix-seh-rt_v5-rev0\\mingw64\\bin\\g++.exe    -Wall -Wextra -Wno-parentheses -Wno-sign-compare -O3 -DNDEBUG -std=gnu++1z -o CMakeFiles\\main.dir\\Platform.cpp.obj -c D:\\AppData\\OneDrive\\2023rt\\finalcontest\\v55_fix\\Platform.cpp",
+  "file": "D:/AppData/OneDrive/2023rt/finalcontest/v55_fix/Platform.cpp"
+},
+{
+  "directory": "D:/AppData/OneDrive/2023rt/finalcontest/v55_fix/build",
+  "command": "D:\\tools\\x86_64-7.3.0-release-posix-seh-rt_v5-rev0\\mingw64\\bin\\g++.exe    -Wall -Wextra -Wno-parentheses -Wno-sign-compare -O3 -DNDEBUG -std=gnu++1z -o CMakeFiles\\main.dir\\main.cpp.obj -c D:\\AppData\\OneDrive\\2023rt\\finalcontest\\v55_fix\\main.cpp",
+  "file": "D:/AppData/OneDrive/2023rt/finalcontest/v55_fix/main.cpp"
+}
+]

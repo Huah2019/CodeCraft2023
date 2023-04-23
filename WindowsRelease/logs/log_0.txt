@@ -1,0 +1,9 @@
+Sell num for each item: 3 2 3 0 1 1 0
+Profit upper bound for each item: 9000 6400 10200 0 7800 8300 0
+money: 224404
+money upper bound: 241700
+loss money: 17296
+profit rate: 0.928440
+loss rate: 0.071560
+profit_just_loss_tf: 234615.478622
+profit_just_loss_cf: 230780.922793
