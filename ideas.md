@@ -48,8 +48,10 @@ $pp[i][j]$工作台$i$的产品是否可以卖给工作台$j$
 
 雷达信息：
 根据(p,nextTo)可以造出一个矩形
+<p align="center">
+    <img src="./imgs/image-20230414150512154.png"/> <br />
+</p>
 
-![image-20230414150512154](https://github.com/Huah2019/CodeCraft2023\imgs\image-20230414150512154.png)
 
 机器人半圆的雷达探测终点不能在矩形内
 
